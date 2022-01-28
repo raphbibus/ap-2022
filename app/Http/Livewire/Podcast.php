@@ -8,6 +8,7 @@ class Podcast extends Component
 {
     public function render()
     {
-        return view('livewire.podcast');
+        $podcasts = json_decode(file_get_contents(base_path('podcast-index.json')));
+        return view('livewire.podcast', ['podcasts' => $podcasts]);
     }
 }

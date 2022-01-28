@@ -12,14 +12,20 @@ module.exports = {
             'mono': ['"joystixmonospace"', 'SFMono-Regular', ],
         },
         extend: {
+            backgroundImage: theme => ({
+                'blog': "url('/img/bg/blog.jpg')",
+                'podcast': "url('/img/bg/podcast.jpg')",
+            }),
             colors: {
                 punk: {
                     pink: '#E7227E',
+                    red: '#F53B18',
                     brown: '#E6B55C',
                     blue: '#5CB7E6',
                     lila: '#E566FE',
                     violet: '#BD18F5',
                     green: '#18dd81',
+                    gray: '#D9C3CE',
                     dark: '#252525',
                     light: '#EFEFEF',
                     dm: {
