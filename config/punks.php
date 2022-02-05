@@ -7,6 +7,9 @@ return [
         'hoodie' => 'https://shop.spreadshirt.de/agile-punks/agile+punks+20-A5e2aea0ae447424d5b535303?productType=1047&sellable=xrXml797dlF13z9vNgjq-1047-22&appearance=2',
         'medium' => 'https://medium.com/agile-punks',
     ],
+    'cache' => [
+        'blog_ttl' => 604800,
+    ],
     'people' => [
         'domi' => [
             'name' => 'Dominic Burucker',
