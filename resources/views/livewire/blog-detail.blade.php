@@ -3,7 +3,7 @@
         <div class="min-h-screen bg-gradient-to-r from-punk-pink via-transparent to-transparent basis-full z-10 mr-6 max-h-screen overflow-scroll">
             <div class="text-center my-12">
                 <h1 class="font-sans text-6xl text-punk-light leading-[5rem]">{{ $articleMeta->title }}</h1>
-                <div class="grid grid-cols-1 gap-4 my-12 text-left w-1/2 mx-auto">
+                <div class="grid grid-cols-1 gap-4 my-12 text-left w-3/4 2xl:w-1/2 mx-auto">
                         <div class="p-8 bg-punk-dark/80 rounded-xl">
                             <div class="flex flex-row items-center">
                                 <div class="flex-none">
