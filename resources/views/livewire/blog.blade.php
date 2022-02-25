@@ -1,13 +1,13 @@
 <x-navigation>
-    <div class="w-screen bg-blog bg-cover bg-no-repeat bg-fixed bg-center">
-        <div class="min-h-screen bg-gradient-to-r from-punk-pink via-transparent to-transparent basis-full z-10 mr-6 max-h-screen overflow-scroll">
+    <div class="w-screen bg-punk-green xl:bg-blog bg-cover bg-no-repeat bg-fixed bg-center">
+        <div class="min-h-screen bg-gradient-to-r from-punk-pink via-transparent to-transparent basis-full z-10 xl:mr-6 max-h-screen overflow-scroll pb-16">
             <div class="text-center my-12">
-                <h1 class="font-display text-8xl text-punk-light">blog</h1>
-                <div class="grid grid-cols-1 gap-4 my-12 text-left w-3/4 2xl:w-1/2 mx-auto">
+                <h1 class="font-display text-5xl xl:text-8xl text-punk-light">blog</h1>
+                <div class="grid grid-cols-1 gap-4 my-12 text-left w-5/6 md:w-3/4 2xl:w-1/2 mx-auto">
                     @foreach ($articles as $slug => $article)
-                        <div class="p-8 bg-punk-dark/80 rounded-xl">
+                        <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl">
                             <img alt="Vorschaubild des Blogartikels {{ $article->title }}" class="rounded-xl object-cover h-60 w-full shadow-xl" src="{{ asset($article->image) }}">
-                            <h2 class="text-3xl py-4 hover:underline hover:text-punk-pink">
+                            <h2 class="text-2xl xl:text-3xl py-4 hover:underline hover:text-punk-pink break-words">
                                 <a href="{{ config('app.url').config('punks.url.blog').$slug }}">
                                     @if ($loop->first)
                                         <span class="text-punk-pink">NEU: </span>
@@ -18,9 +18,9 @@
                             <p class="">{{ $article->author->name }} - {{ $article->published_at }}</p>
                         </div>
                         @if ($loop->first)
-                            <div class="bg-gradient-to-r from-punk-dark/80 to-punk-pink/80 mx-auto rounded-xl my-8 p-8">
+                            <div class="bg-gradient-to-r from-punk-dark/80 to-punk-pink/80 w-full mx-auto rounded-xl my-8 p-4 xl:p-8">
                                 <p class="text-left text-3xl py-2">Der agile punks Blog</p>
-                                <ul class="text-left text-xl font-serif list-disc pl-4">
+                                <ul class="text-left text-xl font-serif xl:list-disc xl:pl-4">
                                     <li>Artikel zu Team- und Organisationsentwicklung, Leadership, Purpose und so Kram.</li>
                                     <li>Paar philosophische Hirngespinnste, wenn Artikel nachts entstanden ist.</li>
                                     <li>Kurz, prägnant, kein Gelaber um den heißen Brei, kein Sales, keine Pay Wall.</li>

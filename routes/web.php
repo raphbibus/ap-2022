@@ -5,6 +5,7 @@ use App\Http\Livewire\Home;
 use App\Http\Livewire\Blog;
 use App\Http\Livewire\BlogDetail;
 use App\Http\Livewire\Podcast;
+use App\Http\Livewire\Lifestyle;
 
 /*
 |--------------------------------------------------------------------------
@@ -21,3 +22,4 @@ Route::get('/', Home::class);
 Route::get('/blog', Blog::class);
 Route::get('/blog/{slug}', BlogDetail::class);
 Route::get('/podcast', Podcast::class);
+Route::get('/lifestyle', Lifestyle::class);

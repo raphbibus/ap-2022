@@ -15,6 +15,7 @@ module.exports = {
             backgroundImage: theme => ({
                 'blog': "url('/img/bg/blog.jpg')",
                 'podcast': "url('/img/bg/podcast.jpg')",
+                'lifestyle': "url('/img/bg/lifestyle.jpg')",
             }),
             colors: {
                 punk: {
