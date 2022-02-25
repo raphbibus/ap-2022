@@ -1491,8 +1491,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
 }
+.prose-headings\:break-words :is(:where(h1, h2, h3, h4, th):not(:where([class~="not-prose"] *))) {
+  overflow-wrap: break-word;
+}
 .prose-h1\:hidden :is(:where(h1):not(:where([class~="not-prose"] *))) {
   display: none;
+}
+.prose-h2\:break-words :is(:where(h2):not(:where([class~="not-prose"] *))) {
+  overflow-wrap: break-word;
 }
 .hover\:prose-a\:text-punk-pink :is(:where(a):not(:where([class~="not-prose"] *))):hover {
   --tw-text-opacity: 1;

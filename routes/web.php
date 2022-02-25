@@ -6,6 +6,7 @@ use App\Http\Livewire\Blog;
 use App\Http\Livewire\BlogDetail;
 use App\Http\Livewire\Podcast;
 use App\Http\Livewire\Lifestyle;
+use App\Http\Livewire\Imprint;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,3 +24,4 @@ Route::get('/blog', Blog::class);
 Route::get('/blog/{slug}', BlogDetail::class);
 Route::get('/podcast', Podcast::class);
 Route::get('/lifestyle', Lifestyle::class);
+Route::get('/impressum', Imprint::class);
