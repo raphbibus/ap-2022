@@ -21,6 +21,7 @@ module.exports = {
                 punk: {
                     pink: '#E7227E',
                     red: '#F53B18',
+                    darkred: '#691039',
                     brown: '#E6B55C',
                     blue: '#5CB7E6',
                     lila: '#E566FE',
@@ -28,6 +29,7 @@ module.exports = {
                     green: '#18dd81',
                     gray: '#D9C3CE',
                     dark: '#252525',
+                    darker: '#121E26',
                     light: '#EFEFEF',
                     dm: {
                         p1: '#E7227E',
