@@ -1,13 +1,16 @@
 [
     {
         "title": "VERTRAUEN",
-        "description": "Domi und Ralph starten \"ohne Punk und Koma\" mit zwei Geschichten über die Grundlage der Zusammenarbeit. Domi stellt sich den Fragen, wie er in seinem aktuellen Team zu Beginn Vertrauen aufgebaut hat. Bei Ralph geht's um das Format Scrum-Saufen und sinnhafte Teambuilding-Maßnahmen.",
+        "description": "Domi und Ralph starten ohne Punk und Koma mit zwei Geschichten über die Grundlage der Zusammenarbeit. Domi stellt sich den Fragen, wie er in seinem aktuellen Team zu Beginn Vertrauen aufgebaut hat. Bei Ralph geht's um das Format Scrum-Saufen und sinnhafte Teambuilding-Maßnahmen. Wer sich also fragt, warum Leute bei Meetings nie ihre Meinung sagen oder warum Team Building dann vielleicht doch wichtiger ist, als ein Abend RTL2, sollte einfach mal reinhören.\n\nAch ja: das ist Folge 1. Verzeiht uns alle ähms und awkward silence Momente. Inhalt ist top.",
         "image": "",
-        "published_at": "Jan 29, 2022",
+        "published_at": "Feb 25, 2022",
         "links": {
-            "spotify": "#",
-            "apple": "#",
-            "punks" :"#"
+            "spotify": "https://open.spotify.com/episode/5qEGGvKePlPclNyW7v5BLK?si=KNO-pPRSRpy0fsVoSlE02Q",
+            "apple": "https://podcasts.apple.com/us/podcast/vertrauen/id1611746461?i=1000552215865",
+            "podcast" :"https://www.podcast.de/episode/591355373/vertrauen",
+            "amazon" :"https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/0bfa8f21-e035-4498-bfa7-ab7c594d69e7/ohne-punk-und-koma-vertrauen",
+            "deezer" :"https://deezer.page.link/YwYyMdBEGafjcs239",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
     }
 ]

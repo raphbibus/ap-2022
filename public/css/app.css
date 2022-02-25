@@ -989,9 +989,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .z-10 {
   z-index: 10;
 }
-.m-auto {
-  margin: auto;
-}
 .my-12 {
   margin-top: 3rem;
   margin-bottom: 3rem;
@@ -1016,6 +1013,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .mb-2 {
   margin-bottom: 0.5rem;
 }
+.mt-4 {
+  margin-top: 1rem;
+}
 .mt-2 {
   margin-top: 0.5rem;
 }
@@ -1028,11 +1028,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .mt-5 {
   margin-top: 1.25rem;
 }
-.mt-4 {
-  margin-top: 1rem;
-}
 .block {
   display: block;
+}
+.inline-block {
+  display: inline-block;
 }
 .flex {
   display: flex;
@@ -1067,17 +1067,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 .w-screen {
   width: 100vw;
 }
-.w-1\/2 {
-  width: 50%;
+.w-3\/4 {
+  width: 75%;
 }
 .w-auto {
   width: auto;
 }
 .w-full {
   width: 100%;
-}
-.w-3\/4 {
-  width: 75%;
 }
 .min-w-full {
   min-width: 100%;
@@ -1156,9 +1153,17 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-bg-opacity: 1;
   background-color: rgb(245 59 24 / var(--tw-bg-opacity));
 }
+.bg-punk-brown {
+  --tw-bg-opacity: 1;
+  background-color: rgb(230 181 92 / var(--tw-bg-opacity));
+}
 .bg-punk-pink {
   --tw-bg-opacity: 1;
   background-color: rgb(231 34 126 / var(--tw-bg-opacity));
+}
+.bg-punk-blue {
+  --tw-bg-opacity: 1;
+  background-color: rgb(92 183 230 / var(--tw-bg-opacity));
 }
 .bg-gradient-to-r {
   background-image: linear-gradient(to right, var(--tw-gradient-stops));
@@ -1265,17 +1270,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .pl-4 {
   padding-left: 1rem;
 }
-.pb-4 {
-  padding-bottom: 1rem;
-}
-.pt-4 {
-  padding-top: 1rem;
-}
-.pt-96 {
-  padding-top: 24rem;
-}
 .pt-12 {
   padding-top: 3rem;
+}
+.pb-4 {
+  padding-bottom: 1rem;
 }
 .text-left {
   text-align: left;
@@ -1315,6 +1314,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-size: 6rem;
   line-height: 1;
 }
+.text-9xl {
+  font-size: 8rem;
+  line-height: 1;
+}
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
@@ -1322,10 +1325,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-.text-9xl {
-  font-size: 8rem;
-  line-height: 1;
 }
 .leading-normal {
   line-height: 1.5;
@@ -1354,6 +1353,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-punk-green {
   --tw-text-opacity: 1;
   color: rgb(24 221 129 / var(--tw-text-opacity));
+}
+.text-punk-lila {
+  --tw-text-opacity: 1;
+  color: rgb(229 102 254 / var(--tw-text-opacity));
+}
+.text-punk-red {
+  --tw-text-opacity: 1;
+  color: rgb(245 59 24 / var(--tw-text-opacity));
 }
 .shadow-xl {
   --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
@@ -1421,12 +1428,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .md\:block {
     display: block;
-  }
-}
-@media (min-width: 1280px) {
-
-  .xl\:w-1\/2 {
-    width: 50%;
   }
 }
 @media (min-width: 1536px) {
