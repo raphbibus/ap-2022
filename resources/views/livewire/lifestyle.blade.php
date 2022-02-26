@@ -4,7 +4,7 @@
             <div class="text-center my-12">
                 <h1 class="font-display text-5xl xl:text-8xl text-punk-light">lifestyle</h1>
                 <div class="grid grid-cols-1 gap-4 my-12 text-center w-5/6 md:w-3/4 2xl:w-1/2 mx-auto">
-                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl">
+                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl text-punk-light">
                         <h2 class="text-2xl xl:text-3xl py-2 break-words">
                             Es ist einfach, ein Punk zu sein. Und schwierig. Und simpel.
                         </h2>
@@ -37,7 +37,7 @@
                         </p>
                     </div>
 
-                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl">
+                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl text-punk-light">
                         <h2 class="text-2xl xl:text-3xl py-2 break-words">
                             Sei halt auch ein Punk.
                         </h2>
@@ -49,7 +49,7 @@
                         </p>
                     </div>
 
-                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl">
+                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl text-punk-light">
                         <h2 class="text-2xl xl:text-3xl pt-2 pb-8 break-words">
                             Hier, gibt sogar Bilder.
                         </h2>

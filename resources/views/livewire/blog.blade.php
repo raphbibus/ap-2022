@@ -7,7 +7,7 @@
                     @foreach ($articles as $slug => $article)
                         <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl">
                             <img alt="Vorschaubild des Blogartikels {{ $article->title }}" class="rounded-xl object-cover h-60 w-full shadow-xl" src="{{ asset($article->image) }}">
-                            <h2 class="text-2xl xl:text-3xl py-4 hover:underline hover:text-punk-pink break-words">
+                            <h2 class="text-2xl xl:text-3xl py-4 hover:underline text-punk-light hover:text-punk-pink break-words">
                                 <a href="{{ config('app.url').config('punks.url.blog').$slug }}">
                                     @if ($loop->first)
                                         <span class="text-punk-pink">NEU: </span>
@@ -15,12 +15,12 @@
                                     {{ $article->title }}
                                 </a>
                             </h2>
-                            <p class="">{{ $article->author->name }} - {{ $article->published_at }}</p>
+                            <p class="text-punk-light">{{ $article->author->name }} - {{ $article->published_at }}</p>
                         </div>
                         @if ($loop->first)
                             <div class="bg-gradient-to-r from-punk-dark/80 to-punk-pink/80 w-full mx-auto rounded-xl my-8 p-4 xl:p-8">
-                                <p class="text-left text-3xl py-2">Der agile punks Blog</p>
-                                <ul class="text-left text-xl font-serif xl:list-disc xl:pl-4">
+                                <p class="text-left text-3xl py-2 text-punk-light">Der agile punks Blog</p>
+                                <ul class="text-left text-xl font-serif xl:list-disc xl:pl-4 text-punk-light">
                                     <li>Artikel zu Team- und Organisationsentwicklung, Leadership, Purpose und so Kram.</li>
                                     <li>Paar philosophische Hirngespinnste, wenn Artikel nachts entstanden ist.</li>
                                     <li>Kurz, prägnant, kein Gelaber um den heißen Brei, kein Sales, keine Pay Wall.</li>
