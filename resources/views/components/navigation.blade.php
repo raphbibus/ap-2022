@@ -10,7 +10,7 @@
         <a href="/lifestyle" class="-rotate-90 text-3xl transition duration-150 ease-in-out hover:scale-125">lifestyle</a>
     </div>
     <div class="min-h-screen bg-gradient-to-r from-punk-brown to-punk-pink basis-48 flex items-center justify-center z-10">
-        <a href="#" class="-rotate-90 text-3xl transition duration-150 ease-in-out hover:scale-125">workshops</a>
+        <a href="/workshops" class="-rotate-90 text-3xl transition duration-150 ease-in-out hover:scale-125">workshops</a>
     </div>
     {{$slot}}
 </div>
@@ -22,7 +22,7 @@
             <a href="/blog" class="inline-block mr-2 text-5xl text-punk-green hover:text-punk-pink">B<span class="text-sm">log</span></a>
             <a href="/podcast" class="inline-block mx-2 text-5xl text-punk-violet hover:text-punk-pink">P<span class="text-sm">odcast</span></a>
             <a href="/lifestyle" class="inline-block mx-2 text-5xl text-punk-blue hover:text-punk-pink">L<span class="text-sm">ifestyle</span></a>
-            <a href="#" class="inline-block ml-2 text-5xl text-punk-brown hover:text-punk-pink">W<span class="text-sm">orkshops</span></a>
+            <a href="/workshops" class="inline-block ml-2 text-5xl text-punk-brown hover:text-punk-pink">W<span class="text-sm">orkshops</span></a>
         </div>
     </div>
     {{$slot}}

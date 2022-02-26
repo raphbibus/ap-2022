@@ -16,6 +16,7 @@ module.exports = {
                 'blog': "url('/img/bg/blog.jpg')",
                 'podcast': "url('/img/bg/podcast.jpg')",
                 'lifestyle': "url('/img/bg/lifestyle.jpg')",
+                'workshops': "url('/img/bg/workshops.jpg')",
             }),
             colors: {
                 punk: {
