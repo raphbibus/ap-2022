@@ -6,7 +6,7 @@
                 <div class="grid grid-cols-1 gap-4 my-12 text-left w-5/6 md:w-3/4 2xl:w-1/2 mx-auto">
                     @foreach ($articles as $slug => $article)
                         <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl">
-                            <img alt="Vorschaubild des Blogartikels {{ $article->title }}" class="rounded-xl object-cover h-60 w-full shadow-xl" src="{{ asset($article->image) }}">
+                            <img alt="Vorschaubild des Blogartikels {{ $article->title }}" class="rounded-xl object-cover md:h-96 xl:h-auto w-full shadow-xl" src="{{ asset($article->image) }}">
                             <h2 class="text-2xl xl:text-3xl py-4 hover:underline text-punk-light hover:text-punk-pink break-words">
                                 <a href="{{ config('app.url').config('punks.url.blog').$slug }}">
                                     @if ($loop->first)

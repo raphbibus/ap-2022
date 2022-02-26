@@ -24,7 +24,7 @@
                             15x Inspiration im For-Loop
                         </h2>
                         @for($i = 1; $i <= 15; $i++)
-                            <img alt="Das könnte auch dein neues Leben sein." class="rounded-xl object-cover h-60 w-full shadow-xl mb-8" src="{{ asset('img/workshops/'.$i.'.jpg') }}">
+                            <img alt="Das könnte auch dein neues Leben sein." class="rounded-xl object-cover md:h-72 xl:h-auto w-full shadow-xl mb-8" src="{{ asset('img/workshops/'.$i.'.jpg') }}">
                         @endfor
                         <div class="text-center my-4">
                             <a class="bg-punk-darker text-xl lg:text-3xl text-punk-light p-4 rounded-xl mr-2 mt-2 inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Letzte Chance<br>Workshop ballern!</a>

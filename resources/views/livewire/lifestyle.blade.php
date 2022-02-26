@@ -54,7 +54,7 @@
                             Hier, gibt sogar Bilder.
                         </h2>
                         @for ($i = 1; $i <= 6; $i++)
-                            <img alt="Ein Bild von einem Punk mit Hoodie" class="object-cover h-96 lg:h-72 w-full" src="{{ asset('img/hoodie-0'.$i.'.jpg') }}">
+                            <img alt="Ein Bild von einem Punk mit Hoodie" class="object-cover md:h-96 xl:h-auto w-full" src="{{ asset('img/hoodie-0'.$i.'.jpg') }}">
                         @endfor
                             <p class="text-left font-serif text-xl py-2">
                                 Geil oder? Deswegen hier nochmal die Chance dir einen Hoodie zu holen:
