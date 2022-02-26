@@ -15,23 +15,23 @@
                         <p class="text-left font-serif text-xl py-2">
                             Versuche in Lösungen zu denken. Aber erst, wenn du dir sicher bist, dass es ein Problem gibt.
                         </p>
-                        <hr class="border-punk-pink mt-2"/>
+                        <hr class="border-punk-blue mt-2"/>
                         <p class="text-left font-serif text-xl py-2">
                             Sei kein:e Berater:in. Geil dich nicht an Stundensätzen auf. Fördere Kollaboration, lehre Eigenständigkeit.
                         </p>
-                        <hr class="border-punk-pink mt-2"/>
+                        <hr class="border-punk-blue mt-2"/>
                         <p class="text-left font-serif text-xl py-2">
                             Am Tisch ist immer noch Platz für einen weiteren Stuhl. Freu dich immer über mehr Kommunikation und Beteiligung.
                         </p>
-                        <hr class="border-punk-pink mt-2"/>
+                        <hr class="border-punk-blue mt-2"/>
                         <p class="text-left font-serif text-xl py-2">
                             Eine Hypothese am Anfang bringt dich zu einem Ergebnis am Ende. Erkenne den Unterschied zwischen Kausalität und Korrelation.
                         </p>
-                        <hr class="border-punk-pink mt-2"/>
+                        <hr class="border-punk-blue mt-2"/>
                         <p class="text-left font-serif text-xl py-2">
                             Wirf deine Ideologien über Board. Erschaffe das, was gebraucht wird. Nicht irgendwas, das im Lehrbuch steht.
                         </p>
-                        <hr class="border-punk-pink mt-2"/>
+                        <hr class="border-punk-blue mt-2"/>
                         <p class="text-left font-serif text-xl py-2">
                             Sei Teil des Schiffes. Betreibe keinen Katastrophentourismus, sondern verhindere das Unheil.
                         </p>

@@ -19,7 +19,7 @@
                                 <a class="bg-punk-darker text-xl lg:text-3xl text-punk-light p-4 rounded-xl mr-2 mt-2 inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Woah!-rkshop anfragen</a>
                             </div>
                         </p>
-                        <hr class="border-punk-pink my-2"/>
+                        <hr class="border-punk-brown my-2"/>
                         <h2 class="text-2xl xl:text-3xl pt-2 pb-4 break-words">
                             15x Inspiration im For-Loop
                         </h2>
