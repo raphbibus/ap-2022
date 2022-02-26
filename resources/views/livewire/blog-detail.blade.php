@@ -10,7 +10,7 @@
                                     <img alt="Titelbild des Blogartikels {{ $articleMeta->title }}" class="rounded-xl object-center h-40 w-auto shadow-xl" src="{{ asset($articleMeta->author->image) }}">
                                 </div>
                                 <div class="ml-6">
-                                    <p class="leading-6 font-serif text-lg text-center md:text-left pt-4 md:pt-0">
+                                    <p class="leading-6 font-serif text-lg text-center md:text-left pt-4 md:pt-0 text-punk-light">
                                         Veröffentlicht am {{ $articleMeta->published_at }} von<br>
                                         <a class="text-punk-light hover:text-punk-pink font-sans text-xl" href="{{ $articleMeta->author->linkedin }}" target="_blank" rel="noopener noreferrer">{{ $articleMeta->author->name }}</a>,
                                         Punk seit {{ $articleMeta->author->since }}.<br>
