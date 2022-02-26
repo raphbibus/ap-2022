@@ -1,4 +1,4 @@
-<footer class="w-full py-28 xl:py-16">
+<footer class="w-full py-28 xl:py-16 bg-punk-dark">
     <div class="text-center w-1/2 mx-auto">
         <span class="text-6xl font-display text-punk-darker hover:text-punk-pink">
             <a href="/">agile punks</a>
