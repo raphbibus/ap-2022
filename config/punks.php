@@ -49,7 +49,7 @@ return [
             'image' => 'img/blog-chereen.jpg',
             'short_bio' => 'open mind & open heart',
             'since' => '2017',
-            'linkedin' => 'https://www.linkedin.com/in/chereen-heinrich-52a92674/',
+            'linkedin' => 'https://www.linkedin.com/in/chereen-heinrich-cibis-52a92674/',
         ],
         'domiralph' => [
             'name' => 'Dominic Burucker & Ralph Cibis',
