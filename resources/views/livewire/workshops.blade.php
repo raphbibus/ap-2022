@@ -21,10 +21,54 @@
                         </p>
                         <hr class="border-punk-brown my-2"/>
                         <h2 class="text-2xl xl:text-3xl pt-2 pb-4 break-words">
-                            15x Inspiration im For-Loop
+                            15x Inspiration im For-Loop (und was wir so machen)
                         </h2>
                         @for($i = 1; $i <= 15; $i++)
                             <img alt="Das könnte auch dein neues Leben sein." class="rounded-xl object-cover md:h-72 xl:h-auto w-full shadow-xl mb-8" src="{{ asset('img/workshops/'.$i.'.jpg') }}">
+                            @if($i == 1)
+                                <h3 class="text-2xl xl:text-3xl pt-2 pb-4 break-words text-left">
+                                    Ihr ruft um Hilfe
+                                </h3>
+                                <p class="text-left font-serif text-lg">
+                                    Wir hören zu. Gemeinsam mit euch versuchen wir eure wirklichen Probleme zu identifizieren.
+                                    Oftmals (eigentlich fast immer hust hust) liegen diese nämlich viel tiefer oder an ganz anderen Stellen, als dort, wo sich die Symptome bemerkbar machen.
+                                </p><p class="text-left font-serif text-lg pt-4 pb-12">
+                                    In dieser Phase geht es darum die größtmögliche Transparenz zu schaffen und aufzudecken, wo der Schuh wirklich drückt.
+                                    Wir können nicht versprechen, dass es nicht unangenehm wird. Wir können nur versprechen, dass danach die nötige Klarheit herrscht, eure Herausforderungen nachhaltig anzugehen.
+                                </p>
+                            @endif
+                            @if($i == 4)
+                                <h3 class="text-2xl xl:text-3xl pt-2 pb-4 break-words text-left">
+                                    Wir verkaufen euch was (oder nix)
+                                </h3>
+                                <p class="text-left font-serif text-lg">
+                                    Falls wir ein Thema mit euch identifiziert haben, werden wir mit euch zusammen einen ersten Plan für potentielle Herangehensweisen aufstellen.
+                                    Dabei wird sich zeigen, ob bestehende Werkzeugkästen passen können, oder ob wir mit euch zusammen eine personalisierte Trickkiste aufbauen müssen.
+                                </p><p class="text-left font-serif text-lg pt-4 pb-12">
+                                    Garantieren können wir euch aber eins: Wir werden euch niemals auf Biegen und Brechen davon überzeugen wollen,
+                                    dass wir einer Herausforderung gewachsen sind, wenn wir selbst ganz genau wissen, dass wir es nicht sind. Euer Vorhaben ist zu wichtig, ihr seid nicht unsere Spielwiese.
+                                </p>
+                            @endif
+                            @if($i == 9)
+                                <h3 class="text-2xl xl:text-3xl pt-2 pb-4 break-words text-left">
+                                    Wir leben alle mit den Konsequenzen
+                                </h3>
+                                <p class="text-left font-serif text-lg">
+                                    Auf den Säulen der Empirie (für coole Kids: datengetrieben) - Transparenz, Inspektion und Adaption - haben wir gemeinsam nachhaltige Lösungswege gefunden.
+                                    Vielleicht ist das Ziel noch nicht erreicht, aber der neue Status Quo wird stabiler sein, als der vorherige.
+                                </p><p class="text-left font-serif text-lg pt-4 pb-12">
+                                    Am Ende unserer gemeinsamen Zeit kennt und könnt ihr Methoden und Werkzeuge, um euren alten Dämonen zu begegnen.
+                                    Ihr seid jetzt selbst ein bisschen agile punks.
+                                </p>
+                            @endif
+                            @if($i == 14)
+                                <h3 class="text-2xl xl:text-3xl pt-2 pb-4 break-words text-left">
+                                    Ganz schön weit gescrolled...
+                                </h3>
+                                <p class="text-left font-serif text-lg pb-12">
+                                    Es wird auf jeden Fall zu euren Anforderungen passen. Versprochen. Lasst einfach schauen, dass wir durchziehen, was wir auf irgendwelche Sticky-Notes schreiben lol.
+                                </p>
+                            @endif
                         @endfor
                         <div class="text-center my-4">
                             <a class="bg-punk-darker text-xl lg:text-3xl text-punk-light p-4 rounded-xl mr-2 mt-2 inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Letzte Chance<br>Workshop ballern!</a>

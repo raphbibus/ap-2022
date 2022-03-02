@@ -15,7 +15,7 @@
 
                         <h3>Kontakt</h3>
                         <p>Telefon: 017623579314<br />
-                            E-Mail: info@agile-punks.com</p>
+                            E-Mail: <a href='&#109;a&#105;l&#116;o&#58;in&#102;%6F&#64;%&#54;&#49;&#103;%69le%&#50;D%70%&#55;5n&#37;6&#66;s&#46;&#99;om'>inf&#111;&#64;agil&#101;-pu&#110;ks&#46;&#99;om</a></p>
 
                         <h3>Umsatzsteuer-ID</h3>
                         <p>Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect; 27 a Umsatzsteuergesetz:<br />
@@ -33,11 +33,11 @@
                         <h2>Datenschutz-erklärung</h2>
 
                         <h3>
-                            Too long, didn't read:
+                            Too long, didn't read: no &#127850; &amp; no &#128373;
                         </h3>
                         <p>
-                            Uns ist es wichtig, dass wir alle eine gute Zeit haben und viel Privatsphäre. Auf dieser Website gibt es kein Tracking. Die Software (Laravel), die wir für die Seite nutzen, setzt für ihre Basisfunktionalität Cookies.<br>
-                            Hierbei werden aber keine personenbezogenen Daten gespeichert und auch nicht ausgewertet. Ansonsten gilt: fühlt euch unbeobachtet, denn das seid ihr. Der komplette Quellcode dieser Seite ist öffentlich auf <a href="https://github.com/raphbibus/ap-2022" target="_blank" rel="noreferrer noopener">Github</a> einsehbar.
+                            Uns ist es wichtig, dass wir alle eine gute Zeit haben und viel Privatsphäre. Auf dieser Website gibt es kein Tracking, nur guten Inhalt. Die Software (Laravel), die wir für die Seite nutzen, setzt für ihre Basisfunktionalität Cookies.<br>
+                            Hierbei werden aber keine personenbezogenen Daten gespeichert und auch nichts ausgewertet. Ansonsten gilt: fühlt euch unbeobachtet, denn das seid ihr. Der komplette Quellcode dieser Seite ist öffentlich auf <a href="https://github.com/raphbibus/ap-2022" target="_blank" rel="noreferrer noopener">Github</a> einsehbar.
                         </p>
 
                         <h3>1. Datenschutz auf einen Blick</h3>
@@ -51,7 +51,7 @@
                             96052 Bamberg</p>
 
                         <p>Telefon: 0176 23579314<br />
-                            E-Mail: info@agile-punks.com</p>
+                            E-Mail: <a href='&#109;a&#105;l&#116;o&#58;in&#102;%6F&#64;%&#54;&#49;&#103;%69le%&#50;D%70%&#55;5n&#37;6&#66;s&#46;&#99;om'>inf&#111;&#64;agil&#101;-pu&#110;ks&#46;&#99;om</a></p>
                         <p>Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person, die allein oder gemeinsam mit anderen &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. &Auml;.) entscheidet.</p>
                         <h4>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h4> <p>Viele Datenverarbeitungsvorg&auml;nge sind nur mit Ihrer ausdr&uuml;cklichen Einwilligung m&ouml;glich. Sie k&ouml;nnen eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtm&auml;&szlig;igkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unber&uuml;hrt.</p>
                         <h4>Widerspruchsrecht gegen die Datenerhebung in besonderen F&auml;llen sowie gegen Direktwerbung (Art. 21 DSGVO)</h4> <p>WENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GR&Uuml;NDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH F&Uuml;R EIN AUF DIESE BESTIMMUNGEN GEST&Uuml;TZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKL&Auml;RUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR K&Ouml;NNEN ZWINGENDE SCHUTZW&Uuml;RDIGE GR&Uuml;NDE F&Uuml;R DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN &Uuml;BERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUS&Uuml;BUNG ODER VERTEIDIGUNG VON RECHTSANSPR&Uuml;CHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).</p> <p>WERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH F&Uuml;R DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO).</p>

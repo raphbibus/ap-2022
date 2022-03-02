@@ -25,6 +25,10 @@
         </span><br>
         <span class="text-xl font-extrabold font-serif text-punk-blue hover:text-punk-pink hover:underline ml-2">
             <a href="https://www.linkedin.com/company/agile-punks/" target="_blank" rel="noreferrer noopener">ap @ linkedin</a>
+        </span><br>
+        <hr class="border-punk-darker my-2"/>
+        <span>
+            no &#127850; &amp; no &#128373;
         </span>
     </div>
 </footer>
