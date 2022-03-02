@@ -32,9 +32,9 @@ class BlogDetail extends Component
     public function render()
     {
         return view('livewire.blog-detail', ['articleMeta' => $this->articleMeta, 'articleText' => $this->articleText])->layoutData([
-            'title' => "",
-            'description' => "",
-            'image' => asset('img/hoodie-0'.rand(1,6).'.jpg'),
+            'title' => "{$this->articleMeta->title} - agile punks",
+            'description' => "Blogpost von {$this->articleMeta->author->name}. Veröffentlicht am {$this->articleMeta->published_at}",
+            'image' => $this->articleMeta->image,
         ]);
     }
 }
