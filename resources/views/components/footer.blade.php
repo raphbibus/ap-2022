@@ -1,10 +1,10 @@
 <footer class="w-full py-28 xl:py-16 bg-punk-dark">
     <div class="text-center w-1/2 mx-auto">
-        <span class="text-6xl font-display text-punk-darker hover:text-punk-pink">
+        <span class="text-6xl font-display text-punk-lightgray hover:text-punk-pink">
             <a href="/">agile punks</a>
         </span>
         <hr class="border-punk-darker my-2"/>
-        <span class="text-3xl text-punk-darker font-sans">
+        <span class="text-3xl text-punk-lightgray font-sans">
             einmal punk, immer punk.
             <br>est. 2018
         </span>
