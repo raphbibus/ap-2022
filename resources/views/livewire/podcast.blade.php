@@ -23,6 +23,15 @@
                             <h2 class="text-5xl pb-4 text-punk-pink">{{ $key + 1 }}. {{ $episode->title }}</h2>
                             <p class="font-serif mb-6">{{ $episode->description }}</p>
                             <p>
+                                @foreach($episode->links as $key => $value)
+                                    @if($value != "")
+                                        <a class="{{config('punks.podcast.colors.'.$key)}} p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $value }}">{{config('punks.podcast.channels.'.$key)}}</a>
+                                    @else
+                                        <span class="{{config('punks.podcast.colors.'.$key)}} p-2 rounded-xl mr-2 mt-2 inline-block">Kommt noch...</span>
+                                    @endif
+                                @endforeach
+                            </p>
+                            <p class="hidden">
                                 <a class="bg-punk-dark text-punk-green p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->spotify }}">Spotify</a>
                                 <a class="bg-punk-red text-punk-light p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->apple }}">Apple Music</a>
                                 <a class="bg-punk-brown text-punk-light p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->podcast }}">podcast.de</a>

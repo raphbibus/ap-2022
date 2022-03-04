@@ -7,6 +7,26 @@ return [
         'hoodie' => 'https://shop.spreadshirt.de/agile-punks/agile+punks+20-A5e2aea0ae447424d5b535303?productType=1047&sellable=xrXml797dlF13z9vNgjq-1047-22&appearance=2',
         'medium' => 'https://medium.com/agile-punks',
     ],
+    'podcast' => [
+        'channels' => [
+            'spotify' => "Spotify",
+            'apple' => "Apple Music",
+            'podcast' => "podcast.de",
+            'amazon' => "Amazon",
+            'deezer' => "Deezer",
+            'rss' => "RSS",
+            'google' => "Google",
+        ],
+        'colors' => [
+            'spotify' => "bg-punk-dark text-punk-green ",
+            'apple' => "bg-punk-red text-punk-light ",
+            'podcast' => "bg-punk-brown text-punk-light ",
+            'amazon' => "bg-punk-blue text-punk-light ",
+            'deezer' => "bg-punk-dark text-punk-light ",
+            'rss' => "bg-punk-pink text-punk-dark ",
+            'google' => "bg-punk-light text-punk-brown ",
+        ],
+    ],
     'cache' => [
         'blog_ttl' => 604800,
     ],
