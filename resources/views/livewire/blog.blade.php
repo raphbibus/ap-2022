@@ -7,7 +7,7 @@
                     @foreach ($articles as $slug => $article)
                         <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl">
                             <img alt="Vorschaubild des Blogartikels {{ $article->title }}" class="rounded-xl object-cover md:h-96 xl:h-auto w-full shadow-xl" src="{{ asset($article->image) }}">
-                            <h2 class="text-2xl xl:text-3xl py-4 hover:underline text-punk-light hover:text-punk-pink break-words">
+                            <h2 class="text-3xl 2xl:text-4xl py-4 hover:underline text-punk-light hover:text-punk-pink break-words">
                                 <a href="{{ config('app.url').config('punks.url.blog').$slug }}">
                                     @if ($loop->first)
                                         <span class="text-punk-pink">NEU: </span>
@@ -15,13 +15,13 @@
                                     {{ $article->title }}
                                 </a>
                             </h2>
-                            <p class="text-punk-light">{{ $article->author->name }} - {{ $article->published_at }}</p>
+                            <p class="text-punk-light font-serif font-bold">{{ $article->author->name }} - {{ $article->published_at }}</p>
                         </div>
                         @if ($loop->first)
                             <div class="bg-gradient-to-r from-punk-dark/80 to-punk-pink/80 w-full mx-auto rounded-xl p-4 xl:p-8 2xl:flex 2xl:items-center">
                                 <div>
-                                    <p class="text-left text-3xl 2xl:text-5xl py-2 text-punk-light">Der agile punks Blog</p>
-                                    <ul class="text-left text-xl 2xl:text-2xl font-serif xl:list-disc xl:pl-4 text-punk-light">
+                                    <h2 class="text-left text-3xl 2xl:text-5xl py-2 text-punk-light">Der agile punks Blog</h2>
+                                    <ul class="text-left text-lg font-serif xl:list-disc xl:pl-4 text-punk-light">
                                         <li>Artikel zu Team- und Organisationsentwicklung, Leadership, Purpose und so Kram.</li>
                                         <li>Paar philosophische Hirngespinnste, wenn Artikel nachts entstanden ist.</li>
                                         <li>Kurz, prägnant, kein Gelaber um den heißen Brei, kein Sales, keine Pay Wall.</li>

@@ -24,7 +24,7 @@
                         </div>
                 </div>
                 <p class="hidden xl:block">
-                    <a href="/blog" class="font-serif text-punk-light hover:text-punk-pink">zurück zur Übersicht</a>
+                    <a href="/blog" class="font-serif font-bold text-punk-light hover:text-punk-pink">zurück zur Übersicht</a>
                 </p>
             </div>
         </div>

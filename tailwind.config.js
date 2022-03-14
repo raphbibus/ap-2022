@@ -6,10 +6,10 @@ module.exports = {
     ],
     theme: {
         fontFamily: {
-            'display': ['"hvd_peaceregular"', 'ui-monospace', 'SFMono-Regular',],
-            'sans': ['"hvd_posterregular"', 'ui-sans-serif', 'system-ui', ],
-            'serif': ['"Alata"', 'ui-serif', 'Georgia', ],
-            'mono': ['"joystixmonospace"', 'SFMono-Regular', ],
+            'display': ['"hvd_peaceregular"', '"Arial"', 'ui-sans-serif', 'system-ui',],
+            'sans': ['"hvd_posterregular"', 'ui-sans-serif', 'system-ui',],
+            'serif': ['"opensans"', 'ui-sans-serif', 'Georgia', 'system-ui',],
+            'mono': ['ui-monospace', '"Courier New"', 'monospace', 'system-ui',],
         },
         extend: {
             backgroundImage: theme => ({
