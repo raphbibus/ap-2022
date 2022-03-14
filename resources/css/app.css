@@ -7,3 +7,32 @@ body ::-webkit-scrollbar { width: 0 !important }
 body { overflow: -moz-scrollbars-none; }
 
 body { -ms-overflow-style: none; }
+
+@font-face {
+    font-family: 'hvd_peaceregular';
+    src:
+    url('../../public/fonts/hvd_peace-webfont.woff2') format('woff2'),
+    url('../../public/fonts/hvd_peace-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'hvd_posterregular';
+    src:
+    url('../../public/fonts/hvd_poster_clean-webfont.woff2') format('woff2'),
+    url('../../public/fonts/hvd_poster_clean-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* open sans */
+@font-face {
+    font-family: 'opensans';
+    font-display: swap;
+    font-weight: 400 800;
+    src: local('Open Sans'), local('Open-Sans'),
+    url('../../public/fonts/opensans.ttf') format('truetype');
+}
