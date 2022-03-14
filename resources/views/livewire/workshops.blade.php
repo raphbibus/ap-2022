@@ -16,7 +16,7 @@
                             Mit viel Erfahrung und einem großen Netzwerk an Spezialist:innen in der Hinterhand, bekommst du auf jeden Fall eine Session mit uns, die dich in deinen Vorhaben weiterbringt.<br>
                             Für Anfragen und Organisation hilft uns dabei die Agentur unseres Punks Max, Space Four. Hier gibt's auch gleich nen Button, der dich bequem dort hinführt.
                             <div class="text-center my-4">
-                                <a class="bg-punk-darker text-xl lg:text-3xl text-punk-light p-4 rounded-xl mr-2 mt-2 inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Woah!-rkshop anfragen</a>
+                                <a class="bg-punk-darker text-xl lg:text-3xl text-punk-light p-4 rounded-xl mt-2 inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Woah!-rkshop anfragen</a>
                             </div>
                         </p>
                         <hr class="border-punk-brown my-2"/>
@@ -37,7 +37,7 @@
                                     Wir können nicht versprechen, dass es nicht unangenehm wird. Wir können nur versprechen, dass danach die nötige Klarheit herrscht, eure Herausforderungen nachhaltig anzugehen.
                                 </p>
                                 <div class="text-center mb-4">
-                                    <a class="bg-punk-darker text-xl lg:text-3xl xl:text-3xl 2xl:text-3xl text-punk-light p-4 rounded-xl mr-2 inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Komm, ab geht's. Workshop!</a>
+                                    <a class="bg-punk-darker text-xl lg:text-3xl xl:text-3xl 2xl:text-3xl text-punk-light p-4 rounded-xl inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Komm, ab geht's. Workshop!</a>
                                 </div>
                             @endif
                             @if($i == 4)
@@ -52,7 +52,7 @@
                                     dass wir einer Herausforderung gewachsen sind, wenn wir selbst ganz genau wissen, dass wir es nicht sind. Euer Vorhaben ist zu wichtig, ihr seid nicht unsere Spielwiese.
                                 </p>
                                 <div class="text-center mb-4">
-                                    <a class="bg-punk-brown text-2xl lg:text-4xl xl:text-5xl 2xl:text-5xl text-punk-light p-4 rounded-xl mr-2 inline-block hover:bg-punk-light hover:text-punk-brown" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Jetzt aber!<br>Workshop geht klar!</a>
+                                    <a class="bg-punk-brown text-2xl lg:text-4xl xl:text-5xl 2xl:text-5xl text-punk-light p-4 rounded-xl inline-block hover:bg-punk-light hover:text-punk-brown" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Jetzt aber!<br>Workshop geht klar!</a>
                                 </div>
                             @endif
                             @if($i == 9)
@@ -67,7 +67,7 @@
                                     Ihr seid jetzt selbst ein bisschen agile punks.
                                 </p>
                                 <div class="text-center mb-4">
-                                    <a class="bg-punk-blue text-3xl lg:text-5xl xl:text-6xl 2xl:text-7xl text-punk-light p-4 rounded-xl mr-2 inline-block hover:bg-punk-light hover:text-punk-blue" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Gut, eigentlich 8,6/10 Zahnärzte.</a>
+                                    <a class="bg-punk-blue text-3xl lg:text-5xl xl:text-6xl 2xl:text-7xl text-punk-light p-4 rounded-xl inline-block hover:bg-punk-light hover:text-punk-blue" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Gut, eigentlich 8,6/10 Zahnärzte.</a>
                                 </div>
                             @endif
                             @if($i == 14)
@@ -80,7 +80,7 @@
                             @endif
                         @endfor
                         <div class="text-center my-4">
-                            <a class="bg-punk-pink text-4xl lg:text-6xl xl:text-7xl 2xl:text-8xl text-punk-light p-4 rounded-xl mr-2 mt-2 inline-block hover:bg-punk-light hover:text-punk-pink" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Letzte Chance<br>Workshop ballern!</a>
+                            <a class="bg-punk-pink text-4xl lg:text-6xl xl:text-7xl 2xl:text-8xl text-punk-light p-4 rounded-xl mt-2 inline-block hover:bg-punk-light hover:text-punk-pink" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Letzte Chance<br>Workshop ballern!</a>
                         </div>
                     </div>
                 </div>
