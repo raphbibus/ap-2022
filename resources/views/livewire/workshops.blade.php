@@ -24,7 +24,7 @@
                             15x Inspiration im For-Loop (und was wir so machen)
                         </h2>
                         @for($i = 1; $i <= 15; $i++)
-                            <img alt="Das könnte auch dein neues Leben sein." class="rounded-xl object-cover md:h-72 xl:h-auto w-full shadow-xl mb-8" src="{{ asset('img/workshops/'.$i.'.jpg') }}">
+                            <img alt="Das könnte auch dein neues Leben sein." class="rounded-xl object-cover md:h-72 xl:h-auto w-full shadow-xl mb-8" src="{{ asset('img/workshops/'.$i.'.webp') }}">
                             @if($i == 1)
                                 <h3 class="text-2xl xl:text-4xl pt-2 pb-4 break-words text-left">
                                     Ihr ruft um Hilfe

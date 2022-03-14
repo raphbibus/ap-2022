@@ -13,10 +13,10 @@ module.exports = {
         },
         extend: {
             backgroundImage: theme => ({
-                'blog': "url('/img/bg/blog.jpg')",
-                'podcast': "url('/img/bg/podcast.jpg')",
-                'lifestyle': "url('/img/bg/lifestyle.jpg')",
-                'workshops': "url('/img/bg/workshops.jpg')",
+                'blog': "url('/img/bg/blog.webp')",
+                'podcast': "url('/img/bg/podcast.webp')",
+                'lifestyle': "url('/img/bg/lifestyle.webp')",
+                'workshops': "url('/img/bg/workshops.webp')",
             }),
             colors: {
                 punk: {
