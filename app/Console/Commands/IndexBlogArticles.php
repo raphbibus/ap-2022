@@ -73,7 +73,7 @@ class IndexBlogArticles extends Command
         $dt = Carbon::create($arr[0], $arr[1], $arr[2]);
         $parsed['published_at'] = $dt->toFormattedDateString();
         $parsed['sort_key'] = $arr[0].$arr[1].$arr[2];
-        $parsed['image'] = 'img/blog/'.str_replace(".md",".jpg",$fileName);
+        $parsed['image'] = 'img/blog/'.str_replace(".md",".webp",$fileName);
         return $parsed;
     }
 

@@ -35,7 +35,7 @@ Wenn niemand sich traut, über die vorherrschende Arbeitskultur zu sprechen, dan
 
 ## Agile war schon immer tot (Ralph)
 
-![alt text](../img/blog/2020-07-30-domiralph-doge-meme.jpg "weil halt niemand mehr agil ist.")
+![alt text](../img/blog/2020-07-30-domiralph-doge-meme.webp "weil halt niemand mehr agil ist.")
 
 Achtet auf das große “A”. Ursprünglich eine idealistische Bewegung basierend auf ein paar Grundprinzipien, mittlerweile eine riesige Beratungs- und Zertifizierungsindustrie. Versteht mich hier nicht falsch. Beratung kann Gold wert sein, vor allem, wenn man selbst nicht weiterkommt. Aber man darf nicht vergessen, dass man Berater und Beraterinnen oft nach Aufwand bezahlt und dieses Geschäftsmodell nicht nachhaltig wäre, wenn dadurch wirklich Probleme gelöst würden. “Das skaliert nicht,” wie die Big Four eben sagen würden. Was aber skaliert sind viele neue Zettelchen, zum an-die-Wand-hängen und im-Lebenslauf-ergänzen. 
 
@@ -61,7 +61,7 @@ Es geht einfach ab und zu auch mal darum so lange nachzubohren, bis der eigentli
 
 ## Big things have small beginnings. (Dominic)
 
-![alt text](../img/blog/2020-07-30-domiralph-print-meme.jpg "power point präsentationen retten die welt.")
+![alt text](../img/blog/2020-07-30-domiralph-print-meme.webp "power point präsentationen retten die welt.")
 
 Dieses Zitat stammt aus dem Film Prometheus von Ridley Scott. David, ein Androide, der aus Kuriosität mit den Genen seiner menschlichen Crew experimentiert, gibt einem Mitglied eine mikroskopische Probe eines Pathogens, das zu starken Mutationen führt. Am Ende hatte sich das Crewmitglied komplett verändert, sowohl physisch als auch psychisch. Ich gehe mal davon aus, so etwas passiert in der durchschnittlichen Firma eher weniger (Stand 2020), aber die grundsätzliche Message bleibt: Mikro-Veränderungen führen irgendwann zu Makro-Veränderungen.
 
