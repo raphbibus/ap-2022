@@ -26,13 +26,3 @@ What else? Nothing.
 
 Want to see this page in action? Fine. Here's the [Link](https://agile-punks.com).
 
-```
-location ~* \.(js|css)$ {
-        expires 3d;
-        add_header Cache-Control "public, no-transform";
-    }
-    location ~* \.(png|jpg|jpeg|gif|ico|mp4|woff|woff2|webp)$ {
-        expires 547d;
-        add_header Cache-Control "public, no-transform";
-    }
-```
