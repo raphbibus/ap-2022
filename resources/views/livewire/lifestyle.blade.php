@@ -8,7 +8,7 @@
                         <h2 class="text-3xl xl:text-5xl py-2 break-words">
                             Es ist einfach, ein Punk zu sein. Und schwierig. Und simpel.
                         </h2>
-                        <img alt="Das könnte auch dein neues Leben sein." class="rounded-xl object-cover h-60 w-full shadow-xl my-8" src="{{ asset('img/lifestyle.jpg') }}">
+                        <img alt="Das könnte auch dein neues Leben sein." class="rounded-xl object-cover h-60 w-full shadow-xl my-8" src="{{ asset('img/lifestyle.webp') }}">
                         <h2 class="text-2xl xl:text-3xl py-2 break-words">
                             Folge einfach diesen <span class="text-punk-blue">6 Regeln</span>, die Ralph sich um 22:30 Freitagabend ausgedacht hat.
                         </h2>
@@ -54,7 +54,7 @@
                             Hier, gibt sogar Bilder.
                         </h2>
                         @for ($i = 1; $i <= 6; $i++)
-                            <img alt="Ein Bild von einem Punk mit Hoodie" class="object-cover md:h-96 xl:h-auto w-full" src="{{ asset('img/hoodie-0'.$i.'.jpg') }}">
+                            <img alt="Ein Bild von einem Punk mit Hoodie" class="object-cover md:h-96 xl:h-auto w-full" src="{{ asset('img/hoodie-0'.$i.'.webp') }}">
                         @endfor
                             <p class="text-left font-serif text-xl py-2">
                                 Geil oder? Deswegen hier nochmal die Chance dir einen Hoodie zu holen:

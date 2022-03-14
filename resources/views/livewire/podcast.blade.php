@@ -3,7 +3,7 @@
         <div class="min-h-screen bg-gradient-to-r from-punk-pink via-transparent to-transparent basis-full z-10 xl:mr-6 max-h-screen overflow-scroll pb-16">
             <div class="text-center my-12">
                 <h1 class="font-display text-5xl xl:text-8xl text-punk-light">Ohne punk und koma</h1>
-                <img alt="Ohne Punk und Koma Logo" class="rounded-xl object-contain h-96 w-5/6 md:w-3/4 2xl:w-1/2 bg-punk-gray/80 mx-auto shadow-xl my-8 p-4 xl:p-8" src="{{ asset('img/podcast-logo.png') }}">
+                <img alt="Ohne Punk und Koma Logo" class="rounded-xl object-contain h-96 w-5/6 md:w-3/4 2xl:w-1/2 bg-punk-gray/80 mx-auto shadow-xl my-8 p-4 xl:p-8" src="{{ asset('img/podcast-logo.webp') }}">
                 <p class="text-5xl text-punk-light">der Podcast mit Domi und Ralph</p>
                 <div class="w-5/6 md:w-3/4 2xl:w-1/2 bg-gradient-to-r from-punk-green/80 to-punk-violet/80 mx-auto rounded-xl my-8 p-4 xl:p-8">
                     <p class="text-left text-2xl font-extrabold py-2 font-serif text-punk-light">Was euch erwartet:</p>
