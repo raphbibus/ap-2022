@@ -38,12 +38,12 @@
         "image": "img/podcast/transparenz.png",
         "published_at": "Mar 16, 2022",
         "links": {
-            "spotify": "",
+            "spotify": "https://open.spotify.com/episode/4ZWLKVvTrtZcPK4XUb5hwO?si=2db0574918c14713",
             "apple": "",
             "podcast" :"",
-            "amazon" :"",
-            "deezer" :"",
-            "rss": "",
+            "amazon" :"https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/9c51e416-742d-4964-92ac-bb6bf7c6bd0f/ohne-punk-und-koma-transparenz",
+            "deezer" :"https://deezer.page.link/HPGUCNtC5Sqyh3rN6",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss",
             "google": ""
         }
     }
