@@ -14,10 +14,10 @@
     </div>
     <div class="xl:hidden fixed bottom-0 z-20 text-center mb-6 w-full">
         <div class="rounded-xl mx-auto w-96 p-2 bg-punk-dark dark:bg-darkpunk-dark">
-            <a href="/blog" class="inline-block mr-2 text-5xl text-punk-green hover:text-punk-pink dark:text-darkpunk-green dark:hover:text-darkpunk-pink">B<span class="text-sm">log</span></a>
-            <a href="/podcast" class="inline-block mx-2 text-5xl text-punk-violet hover:text-punk-pink dark:text-darkpunk-violet dark:hover:text-darkpunk-pink">P<span class="text-sm">odcast</span></a>
-            <a href="/lifestyle" class="inline-block mx-2 text-5xl text-punk-blue hover:text-punk-pink dark:text-darkpunk-blue dark:hover:text-darkpunk-pink">L<span class="text-sm">ifestyle</span></a>
-            <a href="/workshops" class="inline-block ml-2 text-5xl text-punk-brown hover:text-punk-pink dark:text-darkpunk-brown dark:hover:text-darkpunk-pink">W<span class="text-sm">orkshops</span></a>
+            <a href="/blog" class="inline-block mr-2 text-5xl text-punk-green hover:text-punk-pink dark:text-punk-green dark:hover:text-darkpunk-pink">B<span class="text-sm">log</span></a>
+            <a href="/podcast" class="inline-block mx-2 text-5xl text-punk-violet hover:text-punk-pink dark:text-punk-violet dark:hover:text-darkpunk-pink">P<span class="text-sm">odcast</span></a>
+            <a href="/lifestyle" class="inline-block mx-2 text-5xl text-punk-blue hover:text-punk-pink dark:text-punk-blue dark:hover:text-darkpunk-pink">L<span class="text-sm">ifestyle</span></a>
+            <a href="/workshops" class="inline-block ml-2 text-5xl text-punk-brown hover:text-punk-pink dark:text-punk-brown dark:hover:text-darkpunk-pink">W<span class="text-sm">orkshops</span></a>
         </div>
     </div>
     {{$slot}}
