@@ -1,10 +1,11 @@
 <x-navigation>
-    <div class="w-screen bg-punk-lila xl:bg-blog bg-cover bg-no-repeat bg-fixed bg-center">
-        <div class="min-h-screen bg-gradient-to-r from-punk-pink via-transparent to-transparent basis-full z-10 xl:mr-6 max-h-screen overflow-scroll pb-16">
+    <div class="w-screen xl:bg-blog bg-cover bg-no-repeat bg-fixed bg-center bg-punk-lila dark:bg-darkpunk-lila">
+        <div class="min-h-screen basis-full z-10 xl:mr-6 max-h-screen overflow-scroll pb-16 bg-gradient-to-r from-punk-pink via-transparent to-transparent dark:from-darkpunk-pink dark:via-transparent dark:to-transparent">
             <div class="text-center my-12">
-                <h1 class="font-sans text-4xl xl:text-6xl text-punk-light xl:leading-[5rem]">Impressum und Datenschutz</h1>
+                <h1 class="font-sans text-4xl xl:text-6xl text-punk-light dark:text-darkpunk-light xl:leading-[5rem]">Impressum und Datenschutz</h1>
                 <div class="grid grid-cols-1 gap-4 my-12 text-left w-5/6 md:w-3/4 2xl:w-1/2 mx-auto">
-                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl mx-auto prose prose-invert font-serif break-words prose-img:rounded-xl prose-img:shadow-xl prose-h1:hidden prose-blockquote:border-punk-pink hover:prose-a:text-punk-pink">
+                    <div class="p-4 xl:p-8 rounded-xl mx-auto prose prose-invert font-serif break-words prose-img:rounded-xl prose-img:shadow-xl prose-h1:hidden prose-blockquote:border-punk-pink hover:prose-a:text-punk-pink
+                                dark:prose-blockquote:border-darkpunk-pink dark:hover:prose-a:text-darkpunk-pink bg-punk-dark/80 dark:bg-darkpunk-dark/80">
                         <h2>Impressum</h2>
 
                         <h3>Angaben gem&auml;&szlig; &sect; 5 TMG</h3>

@@ -1,10 +1,10 @@
 <x-navigation>
-    <div class="w-screen bg-punk-brown xl:bg-workshops bg-cover bg-no-repeat bg-fixed bg-center">
-        <div class="min-h-screen bg-gradient-to-r from-punk-pink via-transparent to-transparent basis-full z-10 xl:mr-6 max-h-screen overflow-scroll pb-16">
+    <div class="w-screen xl:bg-workshops bg-cover bg-no-repeat bg-fixed bg-center bg-punk-brown dark:bg-darkpunk-brown">
+        <div class="min-h-screen basis-full z-10 xl:mr-6 max-h-screen overflow-scroll pb-16 bg-gradient-to-r from-punk-pink via-transparent to-transparent dark:from-darkpunk-pink dark:via-transparent dark:to-transparent">
             <div class="text-center my-12">
-                <h1 class="font-display text-5xl xl:text-8xl text-punk-light">workshops</h1>
+                <h1 class="font-display text-5xl xl:text-8xl text-punk-light dark:text-darkpunk-light">workshops</h1>
                 <div class="grid grid-cols-1 gap-4 my-12 text-center w-5/6 md:w-3/4 2xl:w-1/2 mx-auto">
-                    <div class="p-4 xl:p-8 bg-punk-dark/80 rounded-xl text-punk-light">
+                    <div class="p-4 xl:p-8 rounded-xl text-punk-light dark:text-darkpunk-light bg-punk-dark/80 dark:bg-darkpunk-dark/80">
                         <h2 class="text-3xl xl:text-5xl py-2 break-words">
                             <span class="text-punk-brown">Was koscht'n a Workshop?</span><br><span class="text-punk-green">Ja was willst'n machen?</span>
                         </h2>
@@ -19,7 +19,7 @@
                                 <a class="bg-punk-darker text-xl lg:text-3xl text-punk-light p-4 rounded-xl mt-2 inline-block hover:bg-punk-light hover:text-punk-darker" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Woah!-rkshop anfragen</a>
                             </div>
                         </p>
-                        <hr class="border-punk-brown my-2"/>
+                        <hr class="my-2 border-punk-brown dark:border-darkpunk-brown"/>
                         <h2 class="text-3xl xl:text-5xl pt-2 pb-4 break-words">
                             15x Inspiration im For-Loop (und was wir so machen)
                         </h2>

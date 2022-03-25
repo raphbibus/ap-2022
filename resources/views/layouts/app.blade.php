@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', config('app.locale')) }}" class="scroll-smooth">
+<html lang="{{ str_replace('_', '-', config('app.locale')) }}" class="scroll-smooth dark">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,13 +20,13 @@
 
         <base href="{{config('app.url')}}">
 
-        <x-fonts></x-fonts>
-
         <link href="{{ mix('css/app.css') }}" rel="stylesheet">
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
         @livewireStyles
     </head>
-    <body class="leading-normal tracking-normal text-punk-dark bg-punk-light dark:text-punk-light dark:bg-punk-dark h-screen">
+    <body class="leading-normal tracking-normal h-screen
+        text-punk-light bg-punk-dark
+        dark:text-darkpunk-light dark:bg-darkpunk-dark">
         <div id="page_content" class="min-w-full container">
             {{$slot}}
         </div>
