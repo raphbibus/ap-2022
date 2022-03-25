@@ -24,12 +24,26 @@
         <span class="text-2xl font-extrabold font-serif hover:underline ml-2 text-punk-blue hover:text-punk-pink dark:text-darkpunk-blue dark:hover:text-darkpunk-pink">
             <a href="https://www.linkedin.com/company/agile-punks/" target="_blank" rel="noreferrer noopener">ap @ linkedin</a>
         </span><br>
-        <span class="text-lg font-bold font-serif hover:underline text-punk-violet hover:text-punk-pink dark:text-darkpunk-violet dark:hover:text-darkpunk-pink">
+        <span class="text-lg font-bold font-serif hover:underline text-punk-violet hover:text-punk-pink dark:text-darkpunk-lila dark:hover:text-darkpunk-pink">
             <a href="/impressum">impressum und das übliche</a>
         </span><br>
         <hr class="my-2 border-punk-darker dark:border-darkpunk-darker"/>
         <span class="text-punk-light dark:text-darkpunk-light">
             no &#127850; &amp; no &#128373;
         </span>
+        <hr class="my-2 border-punk-darker dark:border-darkpunk-darker"/>
+        <div x-data="{
+            toggleDarkMode() {
+                    if (localStorage.getItem('theme') === 'dark') {
+                        localStorage.theme = 'light'
+                        document.documentElement.classList.remove('dark');
+                    } else {
+                        localStorage.theme = 'dark'
+                        document.documentElement.classList.add('dark');
+                    }
+                }
+            }">
+            <button @click="toggleDarkMode()" class="text-lg font-bold font-serif hover:underline text-punk-brown hover:text-punk-pink dark:text-darkpunk-lila dark:hover:text-darkpunk-pink">hell/dunkel wechseln</button>
+        </div>
     </div>
 </footer>

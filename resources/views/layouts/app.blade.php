@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', config('app.locale')) }}" class="scroll-smooth dark">
+<html lang="{{ str_replace('_', '-', config('app.locale')) }}" class="scroll-smooth">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,8 +21,21 @@
         <base href="{{config('app.url')}}">
 
         <link href="{{ mix('css/app.css') }}" rel="stylesheet">
-        <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.2/dist/alpine.min.js" defer></script>
+        <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
         @livewireStyles
+
+        <script>
+            if (
+                localStorage.getItem('theme') === 'dark' ||
+                (!('theme' in localStorage) &&
+                    window.matchMedia('(prefers-color-scheme: dark)').matches)
+            ) {
+                document.documentElement.classList.add('dark');
+            } else {
+                document.documentElement.classList.remove('dark');
+            }
+        </script>
+
     </head>
     <body class="leading-normal tracking-normal h-screen
         text-punk-light bg-punk-dark
