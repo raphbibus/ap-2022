@@ -33,13 +33,13 @@
                                 @endforeach
                             </p>
                             <p class="hidden">
-                                <a class="bg-punk-dark text-punk-green dark:bg-darkpunk-dark dark:text-darkpunk-green p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->spotify }}">Spotify</a>
+                                <a class="bg-punk-dark text-punk-green dark:bg-darkpunk-dark dark:text-punk-green p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->spotify }}">Spotify</a>
                                 <a class="bg-punk-red text-punk-light dark:bg-darkpunk-red dark:text-darkpunk-light p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->apple }}">Apple Music</a>
                                 <a class="bg-punk-brown text-punk-light dark:bg-darkpunk-brown dark:text-darkpunk-light p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->podcast }}">podcast.de</a>
                                 <a class="bg-punk-dark text-punk-light dark:bg-darkpunk-dark dark:text-darkpunk-light p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->deezer }}">Deezer</a>
                                 <a class="bg-punk-blue text-punk-light dark:bg-darkpunk-blue dark:text-darkpunk-light p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->amazon }}">Amazon</a>
-                                <a class="bg-punk-light text-punk-brown dark:bg-darkpunk-light dark:text-darkpunk-brown p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->google }}">Google</a>
-                                <a class="bg-punk-pink text-punk-dark dark:bg-darkpunk-pink dark:text-darkpunk-dark p-2 rounded-xl mt-2 inline-block" href="{{ $episode->links->rss }}">RSS</a>
+                                <a class="bg-punk-light text-punk-brown dark:bg-darkpunk-light dark:text-punk-brown p-2 rounded-xl mr-2 mt-2 inline-block" href="{{ $episode->links->google }}">Google</a>
+                                <a class="bg-punk-pink text-punk-dark dark:bg-darkpunk-pink dark:text-darkpunk-light p-2 rounded-xl mt-2 inline-block" href="{{ $episode->links->rss }}">RSS</a>
                             </p>
 
                         </div>

@@ -15,16 +15,16 @@
         </span>
         @foreach(config('punks.people') as $punk)
             @if($punk['role'] == 'punk')
-                <span class="text-2xl font-extrabold font-serif hover:underline mx-2 text-punk-darkred hover:text-punk-pink dark:text-darkpunk-darkred dark:hover:text-darkpunk-pink">
+                <span class="text-2xl font-extrabold font-serif hover:underline mx-2 text-punk-darkred hover:text-punk-pink dark:text-punk-darkred dark:hover:text-darkpunk-pink">
                     <a href="{{$punk['linkedin']}}" target="_blank" rel="noreferrer noopener">{{$punk['display_name']}}</a>
                 </span>
             @endif
         @endforeach
         <hr class="my-2 border-punk-darker dark:border-darkpunk-darker"/>
-        <span class="text-2xl font-extrabold font-serif hover:underline ml-2 text-punk-blue hover:text-punk-pink dark:text-darkpunk-blue dark:hover:text-darkpunk-pink">
+        <span class="text-2xl font-extrabold font-serif hover:underline ml-2 text-punk-blue hover:text-punk-pink dark:text-punk-blue dark:hover:text-darkpunk-pink">
             <a href="https://www.linkedin.com/company/agile-punks/" target="_blank" rel="noreferrer noopener">ap @ linkedin</a>
         </span><br>
-        <span class="text-lg font-bold font-serif hover:underline text-punk-violet hover:text-punk-pink dark:text-darkpunk-lila dark:hover:text-darkpunk-pink">
+        <span class="text-lg font-bold font-serif hover:underline text-punk-violet hover:text-punk-pink dark:text-punk-violet dark:hover:text-darkpunk-pink">
             <a href="/impressum">impressum und das übliche</a>
         </span><br>
         <hr class="my-2 border-punk-darker dark:border-darkpunk-darker"/>
@@ -43,7 +43,7 @@
                     }
                 }
             }">
-            <button @click="toggleDarkMode()" class="text-lg font-bold font-serif hover:underline text-punk-brown hover:text-punk-pink dark:text-darkpunk-lila dark:hover:text-darkpunk-pink">hell/dunkel wechseln</button>
+            <button @click="toggleDarkMode()" class="text-lg font-bold font-serif hover:underline text-punk-brown hover:text-punk-pink dark:text-punk-lila dark:hover:text-darkpunk-pink">hell/dunkel wechseln</button>
         </div>
     </div>
 </footer>
