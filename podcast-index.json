@@ -46,5 +46,21 @@
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss",
             "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLTNmNTFkZTJiYjdiZmFkYWFjNWJhNDNmMmI4?sa=X&ved=0CAUQkfYCahcKEwiQgPDz8c_2AhUAAAAAHQAAAAAQAQ"
         }
+    },
+    {
+        "title": "BIG PICTURE",
+        "subtitle":  "Der Podcast mit Domi und Ralph über Produktvisionen und Echokammern aber ohne Aiman Abdallah",
+        "description": "Endlos lange Listen an Jira-Tickets pflastern unseren Weg entlang der dystopischen Unvollkommenheit deiner Instragram-Filterblase. Alle rufen dir entgegen, dass du doch dein Leben in den Griff bekommen musst. Niemand hilft dir. Dein Team hat auch keinen Plan, was diese Produktvision ist, von der du ständig redest. Und wie deine Taten auf irgendwas größeres einzahlen könnten ist weder dir, noch allen anderen klar. Dann vielleicht doch einfach von Domi und Ralph berieseln lassen, um zumindest mal 1-2 Anhaltspunkte zu finden, dein Leben in den Griff zu bekommen. Ist ne nice Episode. Und die letzte mit Mülltonnen-Sound. Versprochen!",
+        "image": "img/podcast/bigpicture.png",
+        "published_at": "Mar 31, 2022",
+        "links": {
+            "spotify": "https://open.spotify.com/episode/7h9G61iCw6GbypDa6CXqdb?si=045_FghHTyWG-YadaCnrEQ",
+            "apple": "https://podcasts.apple.com/us/podcast/big-picture/id1611746461?i=1000555679221",
+            "podcast" :"https://www.podcast.de/episode/592740594/big-picture",
+            "amazon" :"https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/643dfb43-2373-4a9d-b635-654af3a63478/ohne-punk-und-koma-big-picture",
+            "deezer" :"https://deezer.page.link/AR7xjKbEL7dcZzjN9",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss",
+            "google": ""
+        }
     }
 ]
