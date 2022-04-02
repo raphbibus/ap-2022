@@ -23,8 +23,8 @@ return [
             'podcast' => "bg-punk-brown text-punk-light dark:bg-darkpunk-brown dark:text-darkpunk-light ",
             'amazon' => "bg-punk-blue text-punk-light dark:bg-darkpunk-dark dark:text-darkpunk-light ",
             'deezer' => "bg-punk-dark text-punk-light dark:bg-darkpunk-blue dark:text-darkpunk-light ",
-            'google' => "bg-punk-pink text-punk-dark dark:bg-darkpunk-light dark:text-punk-brown ",
-            'rss' => "bg-punk-light text-punk-brown dark:bg-darkpunk-pink dark:text-darkpunk-light ",
+            'rss' => "bg-punk-pink text-punk-dark dark:bg-darkpunk-pink dark:text-darkpunk-light",
+            'google' => "bg-punk-light text-punk-brown dark:bg-darkpunk-light dark:text-punk-brown  ",
         ],
     ],
     'cache' => [
