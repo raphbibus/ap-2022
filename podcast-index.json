@@ -72,10 +72,10 @@
         "links": {
             "spotify": "https://open.spotify.com/episode/1EXc0eFNrd4HtPQGJdHcH5?si=ytkvWcpZRtebknzv_NKyjw",
             "apple": "https://podcasts.apple.com/us/podcast/coaching-impact/id1611746461?i=1000557682993",
-            "podcast" :"",
+            "podcast" :"https://www.podcast.de/episode/593060903/coaching-impact",
             "amazon" :"https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/0859fbe5-41bd-414c-96a5-6d23bad1628b/ohne-punk-und-koma-coaching-impact",
             "deezer" :"https://deezer.page.link/iRxP7Fd7wqVp2US6A",
-            "google": "",
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLTEzNzBiM2MwOTc2YjcwNGI1YWVkMDkxYzY4?sa=X&ved=0CAUQkfYCahcKEwi4tLe6j6L3AhUAAAAAHQAAAAAQAQ",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
     }
