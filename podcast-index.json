@@ -78,5 +78,21 @@
             "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLTEzNzBiM2MwOTc2YjcwNGI1YWVkMDkxYzY4?sa=X&ved=0CAUQkfYCahcKEwi4tLe6j6L3AhUAAAAAHQAAAAAQAQ",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
+    },
+    {
+        "title": "HIERARCHIE UND POLITIK",
+        "subtitle":  "Der Podcast mit Domi und Ralph über Mausklicks, Cliquen und Powerpointpolitik",
+        "description": "Bist du der Sigma Grindset Leader in deiner Clique? Setzt du die Chefin deines Chefs ins CC bei Emails, um ihm richtig eins reinzudrücken? Dann bist du bei dieser Folge von ohne Punk und Koma genau richtig. Ralph erzählt in seiner Geschichte aus dem Arbeitsalltag, wie du Politik am besten dafür verwendest, um richtig heftig in deiner Karriere zu punkten. Denn das A in agile steht für Autokratie. Domi, als Geschichte aus'm Biergarten, erzählt auf keinen Fall von Bandenkriminalität. Bei ihm geht's drum, wie sich natürliche Hierarchien in Cliquen bilden und welchen Nutzen sie an der Spitze der Nahrungskette haben. Wenn dir diese Sätze gefallen haben, hör gerne in unsere neue Podcast-Episode rein!",
+        "image": "img/podcast/hierarchiepolitik.webp",
+        "published_at": "May 02, 2022",
+        "links": {
+            "spotify": "",
+            "apple": "",
+            "podcast" :"",
+            "amazon" :"",
+            "deezer" :"",
+            "google": "",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
+        }
     }
 ]
