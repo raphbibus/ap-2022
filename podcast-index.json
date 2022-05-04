@@ -86,12 +86,12 @@
         "image": "img/podcast/hierarchiepolitik.webp",
         "published_at": "May 02, 2022",
         "links": {
-            "spotify": "",
-            "apple": "",
-            "podcast" :"",
-            "amazon" :"",
-            "deezer" :"",
-            "google": "",
+            "spotify": "https://open.spotify.com/episode/1gSNkj6mZQbSmKxYFUUOGx?si=tjZBCumjTcm4N5bQS4yniw",
+            "apple": "https://podcasts.apple.com/us/podcast/hierarchie-und-politik/id1611746461?i=1000559302904",
+            "podcast" :"https://www.podcast.de/episode/593546296/hierarchie-und-politik",
+            "amazon" :"https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/71876a79-880d-474a-ac6c-0b75023e8669/ohne-punk-und-koma-hierarchie-und-politik",
+            "deezer" :"https://deezer.page.link/d2ZwoK8LHEJ5rgS88",
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLTdlNjNkOTBlMjU4NmI2MjI1YmFkMzdkN2U?sa=X&ved=0CAUQkfYCahcKEwiImaf4wMX3AhUAAAAAHQAAAAAQAQ",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
     }
