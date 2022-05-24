@@ -94,5 +94,21 @@
             "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLTdlNjNkOTBlMjU4NmI2MjI1YmFkMzdkN2U?sa=X&ved=0CAUQkfYCahcKEwiImaf4wMX3AhUAAAAAHQAAAAAQAQ",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
+    },
+    {
+        "title": "ERFÜLLENDE ARBEIT",
+        "subtitle":  "Der Podcast mit Domi und Ralph über Sinn, Erfüllung und Schlangenöl",
+        "description": "Agile Coach sein macht Tendies. Als Beraterin darfst du allen Leuten Schlangenöl verticken. Aber wenn du früh aufwachst, denkst du dir trotzdem, dass du nur für die Stempeluhr lebst. In dieser Episode von ohne Punk und Koma sprechen Domi und Ralph über den Unterschied zwischen erfüllender und sinnstiftender Arbeit. Auf professioneller Seite erklärt Ralph, wie es vom Traumjob Pilot zum Traumjob (oder Kompromiss?!) agile Coach gekommen ist. Als Geschichte aus dem Privatleben erzählt Domi, wie er zu seinem Job als agile Coach gekommen ist und was hier den Unterschied zum Masterstudiengang Denkmalpflege macht. Naja... jedenfalls wird's richtig deep in dieser Folge und für alle Zuhörer:innen nicht nur sinnstiftend, sondern auch erfüllend. Und Schlangenöl.",
+        "image": "img/podcast/erfuellendearbeit.webp",
+        "published_at": "May 25, 2022",
+        "links": {
+            "spotify": "",
+            "apple": "",
+            "podcast" :"",
+            "amazon" :"",
+            "deezer" :"",
+            "google": "",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
+        }
     }
 ]
