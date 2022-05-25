@@ -102,11 +102,11 @@
         "image": "img/podcast/erfuellendearbeit.webp",
         "published_at": "May 25, 2022",
         "links": {
-            "spotify": "",
-            "apple": "",
+            "spotify": "https://open.spotify.com/episode/2Q4SG28F91S8JUdFNM2EKw?si=1a70af672b414c83",
+            "apple": "https://podcasts.apple.com/us/podcast/erf%C3%BCllende-arbeit/id1611746461?i=1000563734083",
             "podcast" :"",
-            "amazon" :"",
-            "deezer" :"",
+            "amazon" :"https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/ce5639d3-02b1-4a54-8501-43c6f03a62ea/ohne-punk-und-koma-erf%C3%BCllende-arbeit",
+            "deezer" :"https://deezer.page.link/aSSnfVGaaTqdPjcA7",
             "google": "",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
