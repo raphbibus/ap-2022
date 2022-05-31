@@ -10,7 +10,7 @@
         <meta name="description" content="{{$description ?? "agil, weil's sonst niemand ist."}}">
         <meta property="og:description" content="{{$description ?? "agil, weil's sonst niemand ist."}}">
 
-        <meta property="og:image" content="{{ $image ? str_replace('.webp', '.jpg', $image) : asset('img/meta-image.png') }}">
+        <meta property="og:image" content="{{ $image ? asset(str_replace('.webp', '.jpg', $image)) : asset('img/meta-image.png') }}">
 
         <meta name="robots" content="index, follow">
         <meta property="og:type" content="website">
