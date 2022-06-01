@@ -41,9 +41,7 @@ class IndexBlogArticles extends Command
     public function handle()
     {
         $indexedArticles = [];
-
         $blogArticles = array_diff(scandir(base_path('blog')),array('..', '.'));
-
         $blogIndex = fopen(base_path('blog-index.json'), "w") or die("Unable to open file!");
 
         foreach($blogArticles as $fileName) {
