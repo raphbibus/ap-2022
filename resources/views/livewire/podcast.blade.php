@@ -19,7 +19,10 @@
                 <div class="grid grid-cols-1 gap-4 my-12 text-left w-5/6 md:w-3/4 2xl:w-1/2 mx-auto">
                     @foreach ($podcasts as $key => $episode)
                         <div id="podcast_{{$key}}" class="p-4 xl:p-8 rounded-xl text-punk-dark bg-punk-gray/80 dark:text-darkpunk-light dark:bg-darkpunk-gray/80">
-                            <h2 class="text-5xl pb-4 text-punk-pink dark:text-darkpunk-pink">{{ $key + 1 }}. {{ $episode->title }}</h2>
+                            @if($loop->first)<div class="text-punk-dark dark:text-darkpunk-light text-2xl pb-4">Neuste Episode</div>@endif
+                            <h2 class="text-5xl pb-4 text-punk-pink dark:text-darkpunk-pink">
+                                {{ $key + 1 }}. {{ $episode->title }}
+                            </h2>
                             <h3 class="text-xl font-serif font-bold">{{ $episode->subtitle }}</h3>
                             <p class="font-serif text-lg font-bold my-1">Episode vom {{ $episode->published_at }}</p>
                             <p class="font-serif mb-6">{{ $episode->description }}</p>
