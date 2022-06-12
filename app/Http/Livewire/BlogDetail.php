@@ -18,10 +18,10 @@ class BlogDetail extends Component
             $blogArticles = json_decode(file_get_contents(base_path('blog-index.json')));
             $this->articleMeta = $blogArticles->$slug;
             $this->articleText = Markdown::parse(file_get_contents(base_path($this->articleMeta->path)));
-            Cache::add($slug,[
+            Cache::forever($slug,[
                 'meta' => $this->articleMeta,
                 'text' => $this->articleText
-            ],config('punks.cache.blog_ttl'));
+            ]);
         } else {
             $article = Cache::get($slug);
             $this->articleMeta = $article['meta'];
