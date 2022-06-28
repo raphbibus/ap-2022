@@ -126,5 +126,21 @@
             "google": "",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
+    },
+    {
+        "title": "MUT",
+        "subtitle":  "Der Podcast mit Domi und Ralph über verheulten Mascara und Nudeln mit Tomatensauce",
+        "description": "Wie bekommst du denn eigentlich in deinen cringe Meetings den Knoten zum Platzen? Alle schauen auf den Boden oder tanzen um den heißen Brei herum. Musst halt mutig sein. Supereinfach. Und aus Domi kommt das manchmal einfach herausgeschossen. Obwohl er Angst hat. Und apropos Angst. Ralph hatte auch richtig Schiss, als er um die Hand seiner Frau angehalten hat. Wenn's dir auch manchmal so geht und dir der Mut fehlt, hör halt einfach mal hier rein. Oder traust du dich nicht? War klar. Also, Thema 1: die anderen haben auch Angst. Thema 2: Heiratsantrag machen. Mutmutmutmutmutmut!",
+        "image": "img/podcast/mut.webp",
+        "published_at": "Jun 29, 2022",
+        "links": {
+            "spotify": "",
+            "apple": "",
+            "podcast" :"",
+            "amazon" :"",
+            "deezer" :"",
+            "google": "",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
+        }
     }
 ]
