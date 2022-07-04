@@ -15,8 +15,7 @@
                             96052 Bamberg</p>
 
                         <h3>Kontakt</h3>
-                        <p>Telefon: 017623579314<br />
-                            E-Mail: <a href='&#109;a&#105;l&#116;o&#58;in&#102;%6F&#64;%&#54;&#49;&#103;%69le%&#50;D%70%&#55;5n&#37;6&#66;s&#46;&#99;om'>inf&#111;&#64;agil&#101;-pu&#110;ks&#46;&#99;om</a></p>
+                        <p>E-Mail: <a href='&#109;a&#105;l&#116;o&#58;in&#102;%6F&#64;%&#54;&#49;&#103;%69le%&#50;D%70%&#55;5n&#37;6&#66;s&#46;&#99;om'>inf&#111;&#64;agil&#101;-pu&#110;ks&#46;&#99;om</a></p>
 
                         <h3>Umsatzsteuer-ID</h3>
                         <p>Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect; 27 a Umsatzsteuergesetz:<br />
