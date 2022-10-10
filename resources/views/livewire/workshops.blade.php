@@ -67,7 +67,7 @@
                                     Ihr seid jetzt selbst ein bisschen agile punks.
                                 </p>
                                 <div class="text-center mb-4">
-                                    <a class="bg-punk-blue text-3xl lg:text-5xl xl:text-6xl 2xl:text-7xl text-punk-light p-4 rounded-xl inline-block hover:bg-punk-light hover:text-punk-blue" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">Gut, eigentlich 8,6/10 Zahnärzte.</a>
+                                    <a class="bg-punk-blue text-3xl lg:text-5xl xl:text-6xl 2xl:text-7xl text-punk-light p-4 rounded-xl inline-block hover:bg-punk-light hover:text-punk-blue" href="https://space-4.de/kontakt/" target="_blank" rel="noopener noreferrer">8,6/10 Zahnärzte empfehlen uns.</a>
                                 </div>
                             @endif
                             @if($i == 14)
