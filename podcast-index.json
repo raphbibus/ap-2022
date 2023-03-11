@@ -142,5 +142,21 @@
             "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLTgwYTIxZDcwNzcyOGYwMjJlMjljODU0MTE4?sa=X&ved=0CAUQkfYCahcKEwiI4aOuz9f4AhUAAAAAHQAAAAAQAQ",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
+    },
+    {
+        "title": "ECHOKAMMERN",
+        "subtitle": "Der Podcast mit Domi und Ralph über Life Coaching und Hunde als CEOs",
+        "description": "Was, wenn Agile Coach:innen sich nur um das Wohlergehen ihrer Teams kümmern? Oder man selbst jeden Rat von Menschen auf LinkedIn befolgen würde? In dieser Folge von Ohne Punk Und Koma klären Domi und Ralph ein für alle mal, warum wir so gerne hören, was wir selbst gut finden und ob der Typ, der dem armen Hund auf der Straße Futter gegeben hat, dann doch noch rechtzeitig zu seinem Bewerbungsgespräch gekommen ist. Viel Action, aber alles nur ne Lachnummer.",
+        "image": "img/podcast/echokammern.webp",
+        "published_at": "Mar 13, 2023",
+        "links": {
+            "spotify": "",
+            "apple": "",
+            "podcast": "",
+            "amazon": "",
+            "deezer": "",
+            "google": "",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
+        }
     }
 ]
