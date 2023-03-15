@@ -150,12 +150,12 @@
         "image": "img/podcast/echokammern.webp",
         "published_at": "Mar 13, 2023",
         "links": {
-            "spotify": "",
-            "apple": "",
-            "podcast": "",
-            "amazon": "",
-            "deezer": "",
-            "google": "",
+            "spotify": "https://open.spotify.com/episode/3fuYmtLtd6wYlz8tleoDJO?si=KpiNo90WQhiamemd5vGK9Q",
+            "apple": "https://podcasts.apple.com/de/podcast/echokammern/id1611746461?i=1000603889992",
+            "podcast": "https://www.podcast.de/episode/605962109/echokammern",
+            "amazon": "https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/e8aba981-529a-482e-ae02-52cdb9e2c767/ohne-punk-und-koma-echokammern",
+            "deezer": "https://deezer.page.link/m7wR669Kw5h2iSNM9",
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLTZhNDhkOWNkYzE5NTFhZTQxNWJkOTQ0ZDM5?sa=X&ved=0CAUQkfYCahcKEwiYuuPaxN39AhUAAAAAHQAAAAAQAQ",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
     }
