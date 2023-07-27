@@ -50,7 +50,7 @@
                             Memmelsdorfer Stra&szlig;e 99c<br />
                             96052 Bamberg</p>
 
-                        <p>Telefon: 0176 23579314<br />
+                        <p>
                             E-Mail: <a href='&#109;a&#105;l&#116;o&#58;in&#102;%6F&#64;%&#54;&#49;&#103;%69le%&#50;D%70%&#55;5n&#37;6&#66;s&#46;&#99;om'>inf&#111;&#64;agil&#101;-pu&#110;ks&#46;&#99;om</a></p>
                         <p>Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person, die allein oder gemeinsam mit anderen &uuml;ber die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. &Auml;.) entscheidet.</p>
                         <h4>Widerruf Ihrer Einwilligung zur Datenverarbeitung</h4> <p>Viele Datenverarbeitungsvorg&auml;nge sind nur mit Ihrer ausdr&uuml;cklichen Einwilligung m&ouml;glich. Sie k&ouml;nnen eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtm&auml;&szlig;igkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unber&uuml;hrt.</p>
