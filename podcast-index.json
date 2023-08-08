@@ -174,5 +174,21 @@
             "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hZ2lsZS1wdW5rcy5wb2RjYXN0ZXIuZGUvb2huZS1wdW5rLXVuZC1rb21hLnJzcw/episode/cG9kLWViNzZkNmMwMDc5MmM4ZmI0ODk5ZTRkNzk5MTg?sa=X&ved=0CAUQkfYCahcKEwjg-PvStJz_AhUAAAAAHQAAAAAQAQ",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
         }
+    },
+    {
+        "title": "SELBSTOPTIMIERUNG",
+        "subtitle": "Der Podcast mit Domi und Ralph über leane Buben, Olivenölsaft und Wurzelrechnen in der 4. Klasse",
+        "description": "Während Domi in Yoga Pants seinen Chai Latte trinkt und gleichzeitig 7 Selbsthilfebücher liest, weil er einfach früher mal fett war, sucht Ralph nach der Erfüllung in Managementhandbüchern, wenn der Plebs nicht weiß, wie man Urlaub einreicht. In dieser Folge geht's um genau diese eine Sache, die die Agile Punks zu echten Alpha, äh... Sigma Punks macht: Selbstoptimierung. Wohin die Reise zwischen My Chemical Romance, paar Kilo zu viel auf den Hüften und dem unglaublichen Skill, mit beiden Augen in eine andere Richtung zu schielen, geht, bleibt offen. Aber nur für alle Betas, die den Podcast nicht anhören. Der Rest kann sich nach der Folge ein paar Vaginalgummibärchen abholen.",
+        "image": "img/podcast/selbstoptimierung.webp",
+        "published_at": "Aug 9, 2023",
+        "links": {
+            "spotify": "",
+            "apple": "",
+            "podcast": "",
+            "amazon": "",
+            "deezer": "",
+            "google": "",
+            "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
+        }
     }
 ]
