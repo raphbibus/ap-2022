@@ -182,10 +182,10 @@
         "image": "img/podcast/selbstoptimierung.webp",
         "published_at": "Aug 9, 2023",
         "links": {
-            "spotify": "",
-            "apple": "",
+            "spotify": "https://open.spotify.com/episode/0ZI9aXsxPAoFZLspqBgvmI?si=fe69ccd3d50e4eac",
+            "apple": "https://podcasts.apple.com/de/podcast/selbstoptimierung/id1611746461?i=1000623885208",
             "podcast": "",
-            "amazon": "",
+            "amazon": "https://music.amazon.de/podcasts/8bcce599-2567-47d3-98dc-052962e4108d/episodes/5ecbd388-d05e-41ae-9450-c68c0c2a3257/ohne-punk-und-koma-selbstoptimierung",
             "deezer": "",
             "google": "",
             "rss": "https://agile-punks.podcaster.de/ohne-punk-und-koma.rss"
