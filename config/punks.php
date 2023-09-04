@@ -71,6 +71,16 @@ return [
             'since' => '2017',
             'linkedin' => 'https://www.linkedin.com/in/chereen-heinrich-cibis-52a92674/',
         ],
+        'sebastian' => [
+            'name' => 'Sebastian Weiß',
+            'role' => 'punk',
+            'display_name' => 'Sebastian',
+            'mail' => 'sebastian@agile-punks.com',
+            'image' => 'img/blog-sebastian.webp',
+            'short_bio' => 'iot enthusiast and innovation lover',
+            'since' => '2023',
+            'linkedin' => 'https://www.linkedin.com/in/sebastian-innovation/',
+        ],
         'domiralph' => [
             'name' => 'Dominic Burucker & Ralph Cibis',
             'role' => 'author',
