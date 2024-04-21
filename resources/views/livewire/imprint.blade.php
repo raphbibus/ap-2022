@@ -15,7 +15,7 @@
                             96052 Bamberg</p>
 
                         <h3>Kontakt</h3>
-                        <p>E-Mail: <a href='&#109;a&#105;l&#116;o&#58;in&#102;%6F&#64;%&#54;&#49;&#103;%69le%&#50;D%70%&#55;5n&#37;6&#66;s&#46;&#99;om'>inf&#111;&#64;agil&#101;-pu&#110;ks&#46;&#99;om</a></p>
+                        <p>E-Mail: <a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#103;&#105;&#108;&#101;&#45;&#112;&#117;&#110;&#107;&#115;&#64;&#99;&#105;&#98;&#46;&#105;&#115;'>agile-punks&#64;&#99;ib.i&#115;</a></p>
 
                         <h3>Umsatzsteuer-ID</h3>
                         <p>Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect; 27 a Umsatzsteuergesetz:<br />
