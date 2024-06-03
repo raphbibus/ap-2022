@@ -11,7 +11,7 @@
                         <h3>Angaben gem&auml;&szlig; &sect; 5 TMG</h3>
                         <p>Ralph Cibis<br />
                             <span class="ap-logo-in-text">agile punks</span><br />
-                            Memmelsdorfer Str. 99c<br />
+                            Adam-Senger-Str. 18<br />
                             96052 Bamberg</p>
 
                         <h3>Kontakt</h3>
@@ -23,7 +23,7 @@
 
                         <h3>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV</h3>
                         <p>Ralph Cibis<br />
-                            Memmelsdorfer Str. 99c<br />
+                            Adam-Senger-Str. 18<br />
                             96052 Bamberg</p>
 
                         <h3>Verbraucher&shy;streit&shy;beilegung/Universal&shy;schlichtungs&shy;stelle</h3><p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
